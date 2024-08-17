@@ -1,0 +1,250 @@
+[
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23551f"
+    },
+    "name": "Apple",
+    "description": "Innovative technology solutions",
+    "website": "https://www.apple.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235520"
+    },
+    "name": "Samsung",
+    "description": "Leading electronics and mobile devices",
+    "website": "https://www.samsung.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235521"
+    },
+    "name": "Google",
+    "description": "Pioneering internet services and products",
+    "website": "https://www.google.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235522"
+    },
+    "name": "Microsoft",
+    "description": "Global software and hardware provider",
+    "website": "https://www.microsoft.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235523"
+    },
+    "name": "Sony",
+    "description": "Entertainment and electronics giant",
+    "website": "https://www.sony.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235524"
+    },
+    "name": "Dell",
+    "description": "Computers and IT infrastructure",
+    "website": "https://www.dell.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235525"
+    },
+    "name": "HPComputer",
+    "description": "Innovative personal computing solutions",
+    "website": "https://www.hp.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235526"
+    },
+    "name": "Lenovo",
+    "description": "Leading PC and smartphone manufacturer",
+    "website": "https://www.lenovo.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235527"
+    },
+    "name": "Intel",
+    "description": "Semiconductor and microprocessor leader",
+    "website": "https://www.intel.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235528"
+    },
+    "name": "Nvidia",
+    "description": "Graphics processing technology",
+    "website": "https://www.nvidia.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235529"
+    },
+    "name": "Canon",
+    "description": "Imaging and optical products",
+    "website": "https://www.canon.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552a"
+    },
+    "name": "Adobe",
+    "description": "Creative software solutions",
+    "website": "https://www.adobe.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552b"
+    },
+    "name": "LG Electronics",
+    "description": "Consumer electronics and home appliances",
+    "website": "https://www.lg.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552c"
+    },
+    "name": "Panasonic",
+    "description": "Comprehensive electronics solutions",
+    "website": "https://www.panasonic.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552d"
+    },
+    "name": "IBM",
+    "description": "Enterprise IT and consulting services",
+    "website": "https://www.ibm.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552e"
+    },
+    "name": "Oracle",
+    "description": "Cloud and enterprise software",
+    "website": "https://www.oracle.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23552f"
+    },
+    "name": "Cisco",
+    "description": "Networking hardware and software",
+    "website": "https://www.cisco.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235530"
+    },
+    "name": "Amazon",
+    "description": "E-commerce and cloud computing",
+    "website": "https://www.amazon.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235531"
+    },
+    "name": "Facebook",
+    "description": "Social networking and digital advertising",
+    "website": "https://www.facebook.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235532"
+    },
+    "name": "Twitter",
+    "description": "Real-time social media platform",
+    "website": "https://www.twitter.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235533"
+    },
+    "name": "Netflix",
+    "description": "Streaming entertainment service",
+    "website": "https://www.netflix.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235534"
+    },
+    "name": "Uber",
+    "description": "Ride-hailing and transportation services",
+    "website": "https://www.uber.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235535"
+    },
+    "name": "Airbnb",
+    "description": "Online marketplace for lodging",
+    "website": "https://www.airbnb.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235536"
+    },
+    "name": "PayPal",
+    "description": "Digital payments and financial services",
+    "website": "https://www.paypal.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235537"
+    },
+    "name": "Dropbox",
+    "description": "File hosting and cloud storage",
+    "website": "https://www.dropbox.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235538"
+    },
+    "name": "Tesla",
+    "description": "Electric vehicles and renewable energy",
+    "website": "https://www.tesla.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d235539"
+    },
+    "name": "SpaceX",
+    "description": "Aerospace manufacturing and space transport",
+    "website": "https://www.spacex.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23553a"
+    },
+    "name": "Reddit",
+    "description": "Online community and discussion platform",
+    "website": "https://www.reddit.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23553b"
+    },
+    "name": "Pinterest",
+    "description": "Visual discovery and bookmarking tool",
+    "website": "https://www.pinterest.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23553c"
+    },
+    "name": "Salesforce",
+    "description": "Customer relationship management software",
+    "website": "https://www.salesforce.com"
+  },
+  {
+    "_id": {
+      "$oid": "66aa1317fc13ae149d23553d"
+    },
+    "name": "Snapchat",
+    "description": "Multimedia messaging app",
+    "website": "https://www.snapchat.com"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359aa"
+    },
+    "product": "66aa2099fc13ae149d235566",
+    "user": "66aa0c80fc13ae149d234d2b",
+    "rating": 3,
+    "comment": "Average quality, could be better."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359ab"
+    },
+    "product": "66aa2099fc13ae149d23568e",
+    "user": "66aa0c81fc13ae149d234f71",
+    "rating": 4,
+    "comment": "Good product, I liked it!"
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359ac"
+    },
+    "product": "66aa209afc13ae149d235866",
+    "user": "66aa0c81fc13ae149d234e9a",
+    "rating": 1,
+    "comment": "Very disappointing, not what I expected."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359ad"
+    },
+    "product": "66aa209afc13ae149d23581e",
+    "user": "66aa0c81fc13ae149d235065",
+    "rating": 3,
+    "comment": "Decent, but I have had better."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359ae"
+    },
+    "product": "66aa209afc13ae149d2358c4",
+    "user": "66aa0c80fc13ae149d234df3",
+    "rating": 4,
+    "comment": "Quite good, would recommend."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359af"
+    },
+    "product": "66aa209afc13ae149d2357af",
+    "user": "66aa0c80fc13ae149d234db5",
+    "rating": 1,
+    "comment": "Terrible experience, I would not buy again."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b0"
+    },
+    "product": "66aa2099fc13ae149d2356f9",
+    "user": "66aa0c81fc13ae149d235058",
+    "rating": 4,
+    "comment": "Really good product, very satisfied!"
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b1"
+    },
+    "product": "66aa209afc13ae149d2357ab",
+    "user": "66aa0c81fc13ae149d234fc7",
+    "rating": 1,
+    "comment": "Not worth the money, very poor quality."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b2"
+    },
+    "product": "66aa2099fc13ae149d23559b",
+    "user": "66aa0c81fc13ae149d234f5c",
+    "rating": 4,
+    "comment": "Good value for the price, I liked it."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b3"
+    },
+    "product": "66aa2099fc13ae149d2356f8",
+    "user": "66aa0c81fc13ae149d235084",
+    "rating": 1,
+    "comment": "Not impressed, I expected better."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b4"
+    },
+    "product": "66aa209afc13ae149d23588a",
+    "user": "66aa0c81fc13ae149d234e3b",
+    "rating": 2,
+    "comment": "Below average, needs improvement."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b5"
+    },
+    "product": "66aa2099fc13ae149d235577",
+    "user": "66aa0c81fc13ae149d234f9a",
+    "rating": 5,
+    "comment": "Absolutely fantastic! Highly recommend."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b6"
+    },
+    "product": "66aa2099fc13ae149d23565b",
+    "user": "66aa0c81fc13ae149d234f42",
+    "rating": 2,
+    "comment": "Not great, I wouldn’t buy again."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b7"
+    },
+    "product": "66aa2099fc13ae149d2355d6",
+    "user": "66aa0c81fc13ae149d234fe8",
+    "rating": 2,
+    "comment": "Disappointed, needs better quality."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b8"
+    },
+    "product": "66aa2099fc13ae149d235794",
+    "user": "66aa0c81fc13ae149d234ebd",
+    "rating": 2,
+    "comment": "Could be improved, not very good."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359b9"
+    },
+    "product": "66aa2099fc13ae149d23567b",
+    "user": "66aa0c81fc13ae149d2350f9",
+    "rating": 5,
+    "comment": "Exceptional product! I love it!"
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359ba"
+    },
+    "product": "66aa209afc13ae149d235929",
+    "user": "66aa0c81fc13ae149d234e1d",
+    "rating": 4,
+    "comment": "Very good quality, would buy again."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359bb"
+    },
+    "product": "66aa2099fc13ae149d235586",
+    "user": "66aa0c81fc13ae149d2350dd",
+    "rating": 5,
+    "comment": "Highly recommend! Excellent product."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359bc"
+    },
+    "product": "66aa209afc13ae149d235920",
+    "user": "66aa0c81fc13ae149d235011",
+    "rating": 5,
+    "comment": "Very satisfied with my purchase!"
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359bd"
+    },
+    "product": "66aa209afc13ae149d2357e7",
+    "user": "66aa0c81fc13ae149d234f2e",
+    "rating": 2,
+    "comment": "Not what I expected, mediocre quality."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359be"
+    },
+    "product": "66aa2099fc13ae149d23579f",
+    "user": "66aa0c81fc13ae149d234f5e",
+    "rating": 4,
+    "comment": "Good product, met my expectations."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359bf"
+    },
+    "product": "66aa2099fc13ae149d235765",
+    "user": "66aa0c80fc13ae149d234d46",
+    "rating": 4,
+    "comment": "Very good, I would recommend it."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359c0"
+    },
+    "product": "66aa2099fc13ae149d2355e6",
+    "user": "66aa0c81fc13ae149d2350f1",
+    "rating": 4,
+    "comment": "Satisfactory, I would consider buying again."
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359c1"
+    },
+    "product": "66aa209afc13ae149d23588d",
+    "user": "66aa0c80fc13ae149d234d4b",
+    "rating": 5,
+    "comment": "Excellent quality, very happy with it!"
+  },
+  {
+    "_id": {
+      "$oid": "66aa2a2ffc13ae15f42359c2"
+    },
+    "product": "66aa209afc13ae149d2356fd",
+    "user": "66aa0c81fc13ae149d234ef4",
+    "rating": 3,
+    "comment": "It's okay, nothing special."
+  }
+]

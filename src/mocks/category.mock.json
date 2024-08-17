@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23604c"
+    },
+    "name": "Laptops",
+    "description": "High-performance devices for work and play"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23604d"
+    },
+    "name": "Smartphones",
+    "description": "Portable communication and entertainment hubs"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23604e"
+    },
+    "name": "Tablets",
+    "description": "Versatile devices for browsing, reading, and media consumption"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23604f"
+    },
+    "name": "Smartwatches",
+    "description": "Wearable tech for fitness and notifications"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236050"
+    },
+    "name": "Headphones",
+    "description": "Audio devices for personal listening experiences"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236051"
+    },
+    "name": "Cameras",
+    "description": "Capture moments with high-quality imagery"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236052"
+    },
+    "name": "Printers",
+    "description": "Devices for producing physical copies of digital documents"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236053"
+    },
+    "name": "Monitors",
+    "description": "Screens for enhanced visual computing experiences"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236054"
+    },
+    "name": "Keyboards",
+    "description": "Input devices for efficient typing"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236055"
+    },
+    "name": "Mice",
+    "description": "Pointing devices for precise computer control"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236056"
+    },
+    "name": "External Hard Drives",
+    "description": "Portable storage solutions for data backup"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236057"
+    },
+    "name": "USB Flash Drives",
+    "description": "Compact storage for easy file transfer"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236058"
+    },
+    "name": "Routers",
+    "description": "Devices for connecting and managing network traffic"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236059"
+    },
+    "name": "Gaming Consoles",
+    "description": "Platforms for immersive gaming experiences"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605a"
+    },
+    "name": "VR Headsets",
+    "description": "Devices for experiencing virtual reality"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605b"
+    },
+    "name": "Drones",
+    "description": "Unmanned aerial vehicles for photography and more"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605c"
+    },
+    "name": "Fitness Trackers",
+    "description": "Wearable devices for monitoring health and activity"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605d"
+    },
+    "name": "Portable Speakers",
+    "description": "Wireless audio devices for on-the-go music"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605e"
+    },
+    "name": "Smart Home Devices",
+    "description": "Technology to automate and control your home"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b23605f"
+    },
+    "name": "Networking Equipment",
+    "description": "Devices to enhance and manage network connections"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236060"
+    },
+    "name": "Projectors",
+    "description": "Devices for large-scale visual displays"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236061"
+    },
+    "name": "Computer Components",
+    "description": "Hardware parts to build and upgrade computers"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236062"
+    },
+    "name": "Software",
+    "description": "Programs and applications for computers"
+  },
+  {
+    "_id": {
+      "$oid": "66aa0e5efc13ae132b236063"
+    },
+    "name": "Accessories",
+    "description": "Supplementary items to enhance your devices"
+  }
+]
